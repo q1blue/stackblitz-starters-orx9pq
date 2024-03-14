@@ -12,7 +12,7 @@
     "@quasar/extras": "^1.15.4",
     "quasar": "^2.9.2",
     "vue": "^3.2.40",
-    "vue-router": "^4.1.5"
+    "vue-router": "^4.3.0"
   },
   "devDependencies": {
     "@quasar/app-vite": "^1.1.2",
